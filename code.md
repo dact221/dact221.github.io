@@ -1,5 +1,3 @@
-@def title = "Code - Diego Casas"
-
 # Code
 
 I am a collaborator on these software projects:
